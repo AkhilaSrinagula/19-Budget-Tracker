@@ -8,6 +8,14 @@ This is a budget tracking app where the user can track withdrawals and deposits 
 
 ![View](screenshot.png)
 
+## Link to the app deployed to Heroku
+
+https://gentle-escarpment-42819.herokuapp.com/
+
+## GitHub Repo Link
+
+https://github.com/AkhilaSrinagula/19-Budget-Tracker.git
+
 ## Table of Contents
 
 * [Installation](#installation)
